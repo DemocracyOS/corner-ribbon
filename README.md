@@ -6,6 +6,4 @@
 
 ```html
 <div class="corner-ribbon top-left shadow">Hello</div>
-  <span>I am in a ribbon!</span>
-</div>
 ```
